@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Control de clientes</string>
+    <string name="text_entran">Entran</string>
+    <string name="text_salen">Salen</string>
+</resources>
